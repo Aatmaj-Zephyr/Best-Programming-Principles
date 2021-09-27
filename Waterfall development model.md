@@ -1,3 +1,5 @@
+# The waterfall development model
+
 In the waterfall model, a project progresses through an orderly sequence of steps from the initial software concept through system testing. The project holds a review at the end of each stage to determine whether it is ready to advance to the next phase. If not, it remains in the same phase.
 ![WhatsApp Image 2021-09-27 at 9.32.39 AM](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3oosvmrzhnibvjysillq.jpeg)
  
