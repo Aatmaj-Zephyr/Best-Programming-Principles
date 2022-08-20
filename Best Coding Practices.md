@@ -1,4 +1,5 @@
 ### Best coding practices.
+
 - Always name your variables and functions with the utmost care and explain them thoroughly.
 - Keep documentation concise but descriptive.
 - The reading time for programs is much more than the writing time. Hence, the code must be such that the reading is easier to do. A little more time spent in making the code lucid goes a long way in saving time later.

@@ -1,6 +1,7 @@
 # Principles of good software design
+
 - Most programs spend their 90% time doing 10% instructions. Find this 10% and concentrate your efforts there.
-- Never code until specifications are precise and complete. 
+- Never code until specifications are precise and complete.
 - Sometimes postponing (algorithmic) problems simplifies their solution, just like it happens in recursive algorithms.
 - Choose the algorithm wisely according to the need. Unnecessary complication of algorithm doubles up the work. Dont choose a algorithm just because you know it. Keep your logic simple!
 - Keep your algorithms as simple as you can. **When in doubt, choose the simple way**

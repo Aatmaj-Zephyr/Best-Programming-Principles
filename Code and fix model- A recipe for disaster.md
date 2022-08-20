@@ -1,9 +1,9 @@
-
- The study of development models cannot be complete unless we include the traditional - code and fix model. It is a model (or rather a lack of model) which is easy, but useless if rapid development is to be achieved. Although no one uses it today, understanding what it was highlights the practicality of the development models we use. So rather this blog should have been titled "benefits of development models"
+The study of development models cannot be complete unless we include the traditional - code and fix model. It is a model (or rather a lack of model) which is easy, but useless if rapid development is to be achieved. Although no one uses it today, understanding what it was highlights the practicality of the development models we use. So rather this blog should have been titled "benefits of development models"
 
 Here presenting adaptations from the book [Rapid Development: Taming Wild Software Schedules by Steve McConnell](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005)
 
-____
+---
+
 If you have not done any project planning or chosen another lifecycle model, then you undoubtedly use this 'model'
 Combined with a short-schedule, which is the case most of the times, this model gives rise to code-like-hell approach. The code like hell approach is an approach which makes people work until either they or the project has been finished.
 
