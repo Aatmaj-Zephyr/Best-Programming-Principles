@@ -1,0 +1,9 @@
+input: .
+output: .retype
+branding:
+  title: Best Programming principles
+links:
+  - text: Complete Blog series
+    link: https://dev.to/aatmaj/series/15071
+footer:
+  copyright: "&copy; Copyright Aatmaj. MIT License. All rights reserved."
